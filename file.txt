@@ -1,4 +1,7 @@
 test file
 my lone
+<<<<<<< HEAD
 check this
 this is last lecture
+=======
+>>>>>>> main
